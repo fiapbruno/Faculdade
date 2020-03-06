@@ -36,11 +36,11 @@ while True:
 
 
 
-faixaidadeum = 10<= idadepaciente <= 19
-faixaidadedois = 20<= idadepaciente <= 29
-faixaidadetres = 30<= idadepaciente <= 39
-faixaidadequatro = 40<= idadepaciente <= 49
-faixaidadecinco = 50<= idadepaciente <= 59
-faixaidadeseis = 60<= idadepaciente <= 69
-faixaidadesete = 70<= idadepaciente <= 79
-faixaidadeoito = idadepaciente >= 80
+##faixaidadeum = 10<= idadepaciente <= 19
+##faixaidadedois = 20<= idadepaciente <= 29
+##faixaidadetres = 30<= idadepaciente <= 39
+##faixaidadequatro = 40<= idadepaciente <= 49
+##faixaidadecinco = 50<= idadepaciente <= 59
+##faixaidadeseis = 60<= idadepaciente <= 69
+##faixaidadesete = 70<= idadepaciente <= 79
+##faixaidadeoito = idadepaciente >= 80
