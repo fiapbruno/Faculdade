@@ -1,16 +1,5 @@
 ## Hospital
 
-## Corona Virus
-
-## Idade: 15 < or > 60; Tem risco (Prioritario)
-## Caso contrario segue na fila
-
-## variavel.title()
-## variavel.upper()
-## variavel.lower()
-## str(variavel | int(variavel)
-## input("qual a pergunta")
-
 nomepaciente = input("Qual seu nome? ")
 idadepaciente = int(input("Entre sua idade: "))
 riscopaciente = str(input("Voce possui diabetes, pressao alta, asma, fuma? Responda sim ou nao. "))
