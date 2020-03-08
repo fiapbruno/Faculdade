@@ -1,22 +1,16 @@
 ##tipos de resposta
 loginADM_M = ("Ola administrador")
 loginADM_F = ("Ola administradora")
-
 loginUSR_M = ("Ola usuario")
 loginUSR_F = ("Ola usuaria")
-
 loginGUEST = ("Ola visitante")
-
 loginUNKW = ("Ola desconhecido")
 
 ##inputs
-
-
 caixaEntradaCargo = str(input("Por favor informe o seu cargo: "))
-
-
 caixaEntradaGenero = str(input("Por favor informe o seu genero: "))
 
+##mensagem de erro se usuario colocar digitos em qualquer um dos campos
 if any(s.isdigit() for s in caixaEntradaCargo):
     raise ValueError("Apenas letras, por favor")
 
