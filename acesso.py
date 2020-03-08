@@ -34,7 +34,7 @@ elif caixaEntradaCargo == "ADM" and caixaEntradaGenero == "F":
 elif caixaEntradaCargo == "ADMINISTRADOR" and caixaEntradaGenero == "F":
     print (loginADM_F)
 
-if caixaEntradaCargo == "USR" and caixaEntradaGenero == "M":
+elif caixaEntradaCargo == "USR" and caixaEntradaGenero == "M":
     print (loginUSR_M)
 
 elif caixaEntradaCargo == "USUARIO" and caixaEntradaGenero == "M":
@@ -46,7 +46,7 @@ elif caixaEntradaCargo == "USR" and caixaEntradaGenero == "F":
 elif caixaEntradaCargo == "USUARIO" and caixaEntradaGenero == "F":
     print (loginUSR_F)
 
-if caixaEntradaCargo == "GUEST" and caixaEntradaGenero == "M":
+elif caixaEntradaCargo == "GUEST" and caixaEntradaGenero == "M":
     print (loginGUEST)
 
 elif caixaEntradaCargo == "GUEST" and caixaEntradaGenero == "F":
