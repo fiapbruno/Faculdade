@@ -28,8 +28,6 @@ faixaidadesete = 0
 faixaidadeoito = 0
 faixaidadenove = 0
 
-faixaidadecinco
-
 if idadepaciente <= 10:
     faixaidadezero = 1
     riscofinal = 1
